@@ -3,12 +3,12 @@ import streamlit as st
 # Setting up the page config
 st.set_page_config(page_icon="🛒", page_title="Retail Order Data Analysis", layout="wide")
 
-st.title('''Welcome to Retail Order Data Analysis''')
+st.title(''':orange[***Welcome to Retail Order Data Analysis***]''')
 
 page_bg_img = """
 <style>
 [data-testid="stAppViewContainer"]{
-background-image: url("https://thestatisticsassignmenthelp.com/uploads/services/2024-04-16-12-05-10kupq0tcl74.png");
+background-image: url("https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1080");
 background-size: cover;
 }
 
